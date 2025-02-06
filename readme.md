@@ -18,3 +18,8 @@
 9. Open user input message, pass to OpenAI.
 10. Store response into messages list and show in screen.
 
+#### Structure of my project
+/DUBAI TRIP ASSISTANT PROJ/
+│── welcome_page.py  (Main script)
+│── /pages/
+│   ├── chatbot.py   (Next page)
