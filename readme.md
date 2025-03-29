@@ -7,14 +7,14 @@
 
 
 ### Implementation plan
-1. Show an famous place image of Dubai
-2. Show title
-3. Show textbox for enter user's name
-4. Show button to "say hello"
+1. Showed a famous place image of Dubai
+2. Showed title
+3. Showed textbox for enter user's name
+4. Showed button to "say hello"
 5. Time sleep for 3 seconds
 6. Switched to next file
-7. Show messages.
-8. Show textbox for input.
+7. Showed messages.
+8. Showed textbox for input.
 9. Open user input message, pass to OpenAI.
 10. Store response into messages list and show in screen.
 
